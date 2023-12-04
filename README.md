@@ -90,3 +90,6 @@ Os códigos de status são números fornecidos de acordo com a resposta a uma so
 - **508 Loop Detected:** Loop infinito detectado.
 - **510 Not Extended:** Extensões adicionais necessárias para o servidor atender.
 - **511 Network Authentication Required:** Cliente precisa autenticar para ganhar acesso
+
+- - -
+Autor do resumo: Luís Felipe Torres Galindo - 01527238
